@@ -135,7 +135,7 @@ const definition = {
             acCurrentMultiplier: 1,
             acVoltageDivisor: 1,    // 230V brut -> 230V affiché
             acVoltageMultiplier: 1,
-            acPowerDivisor: 10,     // 260 brut / 10 = 26W
+            acPowerDivisor: 1,     // 260 brut / 10 = 26W
             acPowerMultiplier: 1,
         });
 
